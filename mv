@@ -1,0 +1,9 @@
+Moves a file.
+
+mv file newlocation_and_name
+
+eg:
+
+mv README.txt ../anotherproject/README.txt
+
+NB: if you make the destination name different, it will automatically rename the file for you.
